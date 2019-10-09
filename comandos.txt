@@ -10,8 +10,6 @@ git checkout -- <file> (deshace los últimos cambios del archivo hasta el último 
 
 
 
-git reset soft (borra los cambios con posibilidad de revertir el deshacer)
-
 volver a lo anterior en dos pasos
 git reset HEAD~1
 git checkout -- hola.txt
@@ -27,6 +25,9 @@ git log --oneline (muestra los commits en una línea)
 
 git checkout 
 
+<<<<<<< HEAD
 git diff
 
+=======
+>>>>>>> f6d9185b8e73c7e4b9530b08e153484c19775d44
 
