@@ -1,0 +1,23 @@
+touch archivo.txt
+
+
+
+
+
+comandos para volver atras de más potencia a menos
+
+git checkout -- <file> (deshace los últimos cambios del archivo hasta el último commit)
+
+
+git reset hard 
+
+
+--- consultas --
+
+git status (te dice como esta el estado desde el último commit)
+
+git log --oneline (muestra los commits en una línea)
+
+git checkout 
+
+
